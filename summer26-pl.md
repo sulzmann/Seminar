@@ -1,4 +1,4 @@
-# Seminar Winter 25/26: What you always wanted to know about programming (languages)
+# Seminar Summer 26: What you always wanted to know about programming (languages)
 
 # Content
 
